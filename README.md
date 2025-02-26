@@ -71,5 +71,7 @@ https://www.kaggle.com/datasets/veeralakrishna/200-bird-species-with-11788-image
 
 ## Author
 
-Priyesh Gawali - [Your GitHub Profile]([https://github.com/Roronoa-17])
-Rupak Kadhare - [Your GitHub Profile]([https://github.com/RupakKadhare15])
+[Priyesh Gawali](https://github.com/Roronoa-17)
+[Rupak Kadhare](https://github.com/RupakKadhare15)
+[Abhijit Dhande](https://github.com/abhijit-8688)
+[Aniket Ambatkar](https://github.com/AniketAmbatkar)
