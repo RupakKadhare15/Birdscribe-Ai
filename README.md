@@ -52,19 +52,7 @@ Ensure you have Python installed (preferably Python 3.8 or later).
 4. Additional bird information will be retrieved and displayed.
 5. Users can ask further questions via the sidebar chatbot.
 
-## API Usage
 
-The application interacts with the Hugging Face API using the following method:
-
-- **Bird Information Retrieval:**
-  ```python
-  response = requests.post(API_URL, headers=headers, json={"inputs": prompt})
-  ```
-- **Querying the LLM for Additional Information:**
-  ```python
-  payload = {"inputs": system_prompt, "parameters": {"temperature": 0.8, "max_length": 100}}
-  response = requests.post(API_URL, headers=headers, json=payload)
-  ```
 ## Dataset
 The origincal dataset can be accessed using this link:
 https://www.kaggle.com/datasets/veeralakrishna/200-bird-species-with-11788-images/data
