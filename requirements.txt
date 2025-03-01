@@ -1,0 +1,6 @@
+ultralytics
+streamlit==1.35.0
+requests
+opencv-python
+pillow
+numpy
