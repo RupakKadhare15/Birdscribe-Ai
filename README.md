@@ -81,7 +81,6 @@ Ensure you have Python installed (preferably Python 3.8 or later).
 ![Clark Nutcracker](assets/clark_nutcracker.png)
 <video width="600" controls>
   <source src="assets/Downy_Woodpecker.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 
 
