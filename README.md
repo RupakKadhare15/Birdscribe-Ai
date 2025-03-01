@@ -4,11 +4,11 @@ Birdscribe AI is a Streamlit-based application that allows users to detect birds
 
 ## Overview
 Key Features
-✅ AI-Powered Bird Detection – Uses YOLO-based Computer Vision to identify 200+ bird species from images and videos.
-✅ Conversational Bird Insights – Integrates Mistral-7B LLM to provide species details, habitat information, and conservation status.
-✅ Real-Time Identification – Quickly detects birds and displays relevant information to aid researchers, birdwatchers, and conservationists.
-✅ User-Friendly Interface – Developed with Streamlit, ensuring a smooth and accessible experience for all users.
-✅ Community-Driven Conservation – Encourages citizen scientists to contribute data, fostering global engagement in bird conservation.
+- AI-Powered Bird Detection – Uses YOLO-based Computer Vision to identify 200+ bird species from images and videos.
+-  Conversational Bird Insights – Integrates Mistral-7B LLM to provide species details, habitat information, and conservation status.
+-  Real-Time Identification – Quickly detects birds and displays relevant information to aid researchers, birdwatchers, and conservationists.
+-  User-Friendly Interface – Developed with Streamlit, ensuring a smooth and accessible experience for all users.
+- Community-Driven Conservation – Encourages citizen scientists to contribute data, fostering global engagement in bird conservation.
 
 ## Inspiration
 1. Birds as Environmental Indicators – Their decline signals ecosystem imbalances, highlighting the need for monitoring​.
