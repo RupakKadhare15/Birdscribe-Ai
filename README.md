@@ -1,4 +1,5 @@
 # Birdscribe AI
+![logo](assets/logo.png)
 
 Birdscribe AI is a Streamlit-based application that allows users to detect birds in images and videos using a YOLO model. It then retrieves additional information about the detected bird species using a large language model (LLM) hosted on Hugging Face.
 
