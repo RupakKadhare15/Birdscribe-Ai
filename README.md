@@ -80,6 +80,8 @@ Ensure you have Python installed (preferably Python 3.8 or later).
 # Detection Results 
 
 ![Clark Nutcracker](assets/clark_nutcracker.png)
+
+
 ![Downy Woodpecker](assets/Downy_woodpecker.gif)
 
 # Testing 
