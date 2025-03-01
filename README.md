@@ -10,6 +10,25 @@ Key Features
 ✅ User-Friendly Interface – Developed with Streamlit, ensuring a smooth and accessible experience for all users.
 ✅ Community-Driven Conservation – Encourages citizen scientists to contribute data, fostering global engagement in bird conservation.
 
+## Inspiration
+1. Birds as Environmental Indicators – Their decline signals ecosystem imbalances, highlighting the need for monitoring​.
+
+2. Biodiversity Crisis – Nearly half of bird species are declining, with one in eight at risk of extinction​.
+
+3. Human Impact – Deforestation, agriculture, and urbanization threaten bird populations, requiring better tracking tools​.
+
+4. Climate Change – Rising temperatures and habitat loss accelerate extinction risks, necessitating real-time AI monitoring​.
+
+5. Conservation Success – AI tools like BirdScribe can support species protection and amplify conservation efforts​.
+
+6. Public Engagement – Encouraging citizen science and public participation is key to conservation​.
+
+7. AI for Wildlife Protection – Computer Vision and LLMs enhance bird identification and data analysis, making conservation more effective​.
+
+References -  
+1. https://sites.google.com/xtec.cat/sdg-15-life-on-land-birds/home
+2. https://www.birds.cornell.edu/home/bring-birds-back/
+
 ## Features
 
 - **Bird Detection**: Uses YOLO object detection to identify birds in images and videos.
@@ -57,24 +76,10 @@ Ensure you have Python installed (preferably Python 3.8 or later).
 4. Additional bird information will be retrieved and displayed.
 5. Users can ask further questions via the sidebar chatbot.
 
-## Inspiration
-1. Birds as Environmental Indicators – Their decline signals ecosystem imbalances, highlighting the need for monitoring​.
+# Detection Results 
 
-2. Biodiversity Crisis – Nearly half of bird species are declining, with one in eight at risk of extinction​.
+1. ![Clark NutCracker](assets/clark_nutcracker.png)
 
-3. Human Impact – Deforestation, agriculture, and urbanization threaten bird populations, requiring better tracking tools​.
-
-4. Climate Change – Rising temperatures and habitat loss accelerate extinction risks, necessitating real-time AI monitoring​.
-
-5. Conservation Success – AI tools like BirdScribe can support species protection and amplify conservation efforts​.
-
-6. Public Engagement – Encouraging citizen science and public participation is key to conservation​.
-
-7. AI for Wildlife Protection – Computer Vision and LLMs enhance bird identification and data analysis, making conservation more effective​.
-
-Note - For further details read this articles - 
-https://sites.google.com/xtec.cat/sdg-15-life-on-land-birds/home 
-https://www.birds.cornell.edu/home/bring-birds-back/
 
 ## Dataset
 The origincal dataset can be accessed using this link:
