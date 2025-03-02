@@ -1,9 +1,10 @@
 # Birdscribe AI
 ![logo](assets/final_logo.png)
 
-BirdScribe AI is a Streamlit-powered app that allows users to effortlessly detect birds in images and videos. It provides detailed information about each species, all at your fingertips, powered by a large language model (LLM) 
+Detect, Query, and Learn: AI-powered bird identification with intelligent insights.
 
 ## Overview ♾️
+BirdScribe AI is a Streamlit-powered app that allows users to effortlessly detect birds in images and videos. It provides detailed information about each species, all at your fingertips, powered by a large language model (LLM) 
 
 ### Inspiration 🌄
 - **Passion for Wildlife Conservation** – Inspired by the urgent need to protect bird species from habitat loss, climate change, and declining populations.
