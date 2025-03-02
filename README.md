@@ -26,12 +26,7 @@ References -
 
 ### Technologies Used 💻
 
-- **Streamlit**: For building the web application.
-- **YOLO (You Only Look Once)**: For bird detection in images and videos.
-- **Hugging Face Inference API**: For retrieving bird-related information using the Mistral-7B-Instruct-v0.2 model.
-- **OpenCV**: For image and video processing.
-- **PIL (Pillow)**: For handling image files.
-- **NumPy**: For efficient array operations.
+Python, YOLO, Streamlit, OpenCV, Requests, Pillow, NumPy, Hugging Face API, Huggingspace
 
 ### Installation 
 
