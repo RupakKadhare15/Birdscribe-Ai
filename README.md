@@ -82,7 +82,7 @@ We strongly suggest checking out the **Test Folder**, which contains various cla
 
 ## Dataset 📊
 The origincal dataset can be accessed using this link:
-https://www.kaggle.com/datasets/veeralakrishna/200-bird-species-with-11788-images/data
+https://www.vision.caltech.edu/datasets/cub_200_2011/
 
 ## Authors 🧑🏻‍💻 
 
