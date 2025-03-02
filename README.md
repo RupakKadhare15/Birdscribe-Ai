@@ -3,9 +3,9 @@
 
 BirdScribe AI is a Streamlit-powered app that allows users to effortlessly detect birds in images and videos. It provides detailed information about each species, all at your fingertips, powered by a large language model (LLM) 
 
-### Overview ♾️
+## Overview ♾️
 
-## Inspiration 🌄
+### Inspiration 🌄
 - **Passion for Wildlife Conservation** – Inspired by the urgent need to protect bird species from habitat loss, climate change, and declining populations.
 - **Bridging AI & Nature** – Leveraging Computer Vision and LLMs to make bird identification and query accessible, fast, and intelligent.
 - **Empowering Bird Enthusiasts & Researchers** – Creating a free, AI-driven tool for birdwatchers, students, and conservationists to identify and learn about birds effortlessly.
@@ -17,14 +17,14 @@ References -
 1. https://sites.google.com/xtec.cat/sdg-15-life-on-land-birds/home
 2. https://www.birds.cornell.edu/home/bring-birds-back/
 
-## Features 
+### Features 
 
 - **Bird Detection** – Uses YOLO-based Computer Vision to identify 200+ bird species from images and videos.
 - **Conversational Bird Insights** – Integrates Mistral-7B LLM to provide species specific details like scientific name, geographical distribution, size, weight, and lifespan.
 - **Real-Time Identification** – Quickly detects birds and displays relevant information to aid researchers, birdwatchers and conservationists.
 - **User-Friendly Interface** – Developed with Streamlit, Users can upload images or videos, ask additional questions, and receive AI-generated responses, ensuring a smooth and accessible experience for all users.
 
-## Technologies Used 💻
+### Technologies Used 💻
 
 - **Streamlit**: For building the web application.
 - **YOLO (You Only Look Once)**: For bird detection in images and videos.
@@ -33,15 +33,15 @@ References -
 - **PIL (Pillow)**: For handling image files.
 - **NumPy**: For efficient array operations.
 
-## Installation 
+### Installation 
 
 To run this project locally, follow these steps:
 
-### Prerequisites
+#### Prerequisites
 
 Ensure you have Python installed (preferably Python 3.8 or later).
 
-### Setup
+#### Setup
 
 1. Clone the repository:
    ```sh
@@ -57,7 +57,7 @@ Ensure you have Python installed (preferably Python 3.8 or later).
    streamlit run app.py
    ```
 
-## How to Use 📖
+### How to Use 📖
 
 1. Choose a file type (Image or Video).
 2. Upload an image (JPG, JPEG, PNG) or a video (MP4, AVI, MPEG4).
