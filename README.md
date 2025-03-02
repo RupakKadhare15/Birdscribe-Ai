@@ -3,7 +3,7 @@
 
 Birdscribe AI is a Streamlit-based application that allows users to detect birds in images and videos using a YOLO model. It then retrieves additional information about the detected bird species using a large language model (LLM) hosted on Hugging Face.
 
-## Overview
+## Overview ♾️
 Key Features
 - AI-Powered Bird Detection – Uses YOLO-based Computer Vision to identify 200+ bird species from images and videos.
 -  Conversational Bird Insights – Integrates Mistral-7B LLM to provide species details, habitat information, and conservation status.
@@ -11,7 +11,7 @@ Key Features
 -  User-Friendly Interface – Developed with Streamlit, ensuring a smooth and accessible experience for all users.
 - Community-Driven Conservation – Encourages citizen scientists to contribute data, fostering global engagement in bird conservation.
 
-## Inspiration
+## Inspiration 🌄
 1. Birds as Environmental Indicators – Their decline signals ecosystem imbalances, highlighting the need for monitoring​.
 
 2. Biodiversity Crisis – Nearly half of bird species are declining, with one in eight at risk of extinction​.
@@ -30,13 +30,13 @@ References -
 1. https://sites.google.com/xtec.cat/sdg-15-life-on-land-birds/home
 2. https://www.birds.cornell.edu/home/bring-birds-back/
 
-## Features
+## Features 
 
 - **Bird Detection**: Uses YOLO object detection to identify birds in images and videos.
 - **Bird Information Retrieval**: Fetches details like scientific name, geographical distribution, size, weight, and lifespan from an LLM.
 - **User Interaction**: Users can upload images or videos, ask additional questions, and receive AI-generated responses.
 
-## Technologies Used
+## Technologies Used 💻
 
 - **Streamlit**: For building the web application.
 - **YOLO (You Only Look Once)**: For bird detection in images and videos.
@@ -45,7 +45,7 @@ References -
 - **PIL (Pillow)**: For handling image files.
 - **NumPy**: For efficient array operations.
 
-## Installation
+## Installation 
 
 To run this project locally, follow these steps:
 
@@ -69,7 +69,7 @@ Ensure you have Python installed (preferably Python 3.8 or later).
    streamlit run app.py
    ```
 
-## How to Use
+## How to Use 📖
 
 1. Choose a file type (Image or Video).
 2. Upload an image (JPG, JPEG, PNG) or a video (MP4, AVI, MPEG4).
@@ -77,21 +77,21 @@ Ensure you have Python installed (preferably Python 3.8 or later).
 4. Additional bird information will be retrieved and displayed.
 5. Users can ask further questions via the sidebar chatbot.
 
-# Detection Results 
+# Detection Results 🔍
 
 ![Downy Woodpecker](assets/Downy_woodpecker.gif)
 
 ![Clark Nutcracker](assets/clark_nutcracker.png)
 
 
-# Testing 
-Check out the test folder for testing resources.
+# Testing 🧪
+We strongly suggest checking out the **Test Folder**, which contains various classes of birds, providing images and videos to enhance your testing and UI experience.
 
-## Dataset
+## Dataset 📊
 The origincal dataset can be accessed using this link:
 https://www.kaggle.com/datasets/veeralakrishna/200-bird-species-with-11788-images/data
 
-## Author
+## Authors 🧑🏻‍💻 
 
 [Priyesh Gawali](https://github.com/Roronoa-17)
 [Abhijit Dhande](https://github.com/abhijit-8688)
