@@ -3,8 +3,8 @@
 
 Birdscribe AI is a Streamlit-based application that allows users to detect birds in images and videos using a YOLO model. It then retrieves additional information about the detected bird species using a large language model (LLM) hosted on Hugging Face.
 
-## Overview ♾️
-Key Features
+### Overview ♾️
+## Key Features
 - AI-Powered Bird Detection – Uses YOLO-based Computer Vision to identify 200+ bird species from images and videos.
 -  Conversational Bird Insights – Integrates Mistral-7B LLM to provide species details, habitat information, and conservation status.
 -  Real-Time Identification – Quickly detects birds and displays relevant information to aid researchers, birdwatchers, and conservationists.
@@ -70,14 +70,14 @@ Ensure you have Python installed (preferably Python 3.8 or later).
 4. Additional bird information will be retrieved and displayed.
 5. Users can ask further questions via the sidebar chatbot.
 
-# Detection Results 🔍
+## Detection Results 🔍
 
 ![Downy Woodpecker](assets/Downy_woodpecker.gif)
 
 ![Clark Nutcracker](assets/clark_nutcracker.png)
 
 
-# Testing 🧪
+## Testing 🧪
 We strongly suggest checking out the **Test Folder**, which contains various classes of birds, providing images and videos to enhance your testing and UI experience.
 
 ## Dataset 📊
