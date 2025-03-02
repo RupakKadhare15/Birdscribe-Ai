@@ -1,21 +1,20 @@
 # Birdscribe AI
 ![logo](assets/final_logo.png)
 
-Birdscribe AI is a Streamlit-based application that allows users to detect birds in images and videos using a YOLO model. It then retrieves additional information about the detected bird species using a large language model (LLM) hosted on Hugging Face.
+BirdScribe AI is a Streamlit-powered app that allows users to effortlessly detect birds in images and videos. It provides detailed information about each species, all at your fingertips, powered by a large language model (LLM) 
 
 ### Overview ♾️
-## Key Features
 - AI-Powered Bird Detection – Uses YOLO-based Computer Vision to identify 200+ bird species from images and videos.
--  Conversational Bird Insights – Integrates Mistral-7B LLM to provide species details, habitat information, and conservation status.
--  Real-Time Identification – Quickly detects birds and displays relevant information to aid researchers, birdwatchers, and conservationists.
--  User-Friendly Interface – Developed with Streamlit, ensuring a smooth and accessible experience for all users.
+- Conversational Bird Insights – Integrates Mistral-7B LLM to provide species details, habitat information, and conservation status.
+- Real-Time Identification – Quickly detects birds and displays relevant information to aid researchers, birdwatchers, and conservationists.
+- User-Friendly Interface – Developed with Streamlit, ensuring a smooth and accessible experience for all users.
 - Community-Driven Conservation – Encourages citizen scientists to contribute data, fostering global engagement in bird conservation.
 
 ## Inspiration 🌄
-1. **Passion for Wildlife Conservation** – Inspired by the urgent need to protect bird species from habitat loss, climate change, and declining populations.
-2. **Bridging AI & Nature** – Leveraging Computer Vision and LLMs to make bird identification and query accessible, fast, and intelligent.
-3. **Empowering Bird Enthusiasts & Researchers** – Creating a free, AI-driven tool for birdwatchers, students, and conservationists to identify and learn about birds effortlessly.
-4. **Fostering Environmental Awareness** – Encouraging people to explore, appreciate, and protect biodiversity through technology-driven education.
+- **Passion for Wildlife Conservation** – Inspired by the urgent need to protect bird species from habitat loss, climate change, and declining populations.
+- **Bridging AI & Nature** – Leveraging Computer Vision and LLMs to make bird identification and query accessible, fast, and intelligent.
+- **Empowering Bird Enthusiasts & Researchers** – Creating a free, AI-driven tool for birdwatchers, students, and conservationists to identify and learn about birds effortlessly.
+- **Fostering Environmental Awareness** – Encouraging people to explore, appreciate, and protect biodiversity through technology-driven education.
    
 BirdScribe AI merges innovation with impact, promoting wildlife conservation and awareness while aligning with UN SDGs 4 (Quality Education), 13 (Climate Action), and 15 (Life on Land).
 
@@ -25,9 +24,10 @@ References -
 
 ## Features 
 
-- **Bird Detection**: Uses YOLO object detection to identify birds in images and videos.
-- **Bird Information Retrieval**: Fetches details like scientific name, geographical distribution, size, weight, and lifespan from an LLM.
-- **User Interaction**: Users can upload images or videos, ask additional questions, and receive AI-generated responses.
+- **Bird Detection** – Uses YOLO-based Computer Vision to identify 200+ bird species from images and videos.
+- **Conversational Bird Insights** – Integrates Mistral-7B LLM to provide species specific details like scientific name, geographical distribution, size, weight, and lifespan.
+- **Real-Time Identification** – Quickly detects birds and displays relevant information to aid researchers, birdwatchers and conservationists.
+- **User-Friendly Interface** – Developed with Streamlit, Users can upload images or videos, ask additional questions, and receive AI-generated responses, ensuring a smooth and accessible experience for all users.
 
 ## Technologies Used 💻
 
