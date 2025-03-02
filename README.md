@@ -12,19 +12,12 @@ Key Features
 - Community-Driven Conservation – Encourages citizen scientists to contribute data, fostering global engagement in bird conservation.
 
 ## Inspiration 🌄
-1. Birds as Environmental Indicators – Their decline signals ecosystem imbalances, highlighting the need for monitoring​.
-
-2. Biodiversity Crisis – Nearly half of bird species are declining, with one in eight at risk of extinction​.
-
-3. Human Impact – Deforestation, agriculture, and urbanization threaten bird populations, requiring better tracking tools​.
-
-4. Climate Change – Rising temperatures and habitat loss accelerate extinction risks, necessitating real-time AI monitoring​.
-
-5. Conservation Success – AI tools like BirdScribe can support species protection and amplify conservation efforts​.
-
-6. Public Engagement – Encouraging citizen science and public participation is key to conservation​.
-
-7. AI for Wildlife Protection – Computer Vision and LLMs enhance bird identification and data analysis, making conservation more effective​.
+1. **Passion for Wildlife Conservation** – Inspired by the urgent need to protect bird species from habitat loss, climate change, and declining populations.
+2. **Bridging AI & Nature** – Leveraging Computer Vision and LLMs to make bird identification and query accessible, fast, and intelligent.
+3. **Empowering Bird Enthusiasts & Researchers** – Creating a free, AI-driven tool for birdwatchers, students, and conservationists to identify and learn about birds effortlessly.
+4. **Fostering Environmental Awareness** – Encouraging people to explore, appreciate, and protect biodiversity through technology-driven education.
+   
+BirdScribe AI merges innovation with impact, promoting wildlife conservation and awareness while aligning with UN SDGs 4 (Quality Education), 13 (Climate Action), and 15 (Life on Land).
 
 References -  
 1. https://sites.google.com/xtec.cat/sdg-15-life-on-land-birds/home
