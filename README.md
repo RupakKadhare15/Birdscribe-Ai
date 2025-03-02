@@ -52,7 +52,7 @@ Ensure you have Python installed (preferably Python 3.8 or later).
    streamlit run app.py
    ```
 
-### How to Use 📖
+## How to Use 📖
 
 1. Choose a file type (Image or Video).
 2. Upload an image (JPG, JPEG, PNG) or a video (MP4, AVI, MPEG4).
