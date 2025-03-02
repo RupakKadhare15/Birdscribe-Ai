@@ -67,16 +67,12 @@ Ensure you have Python installed (preferably Python 3.8 or later).
 
 ![Clark Nutcracker](assets/clark_nutcracker.png)
 
-
 ## Testing 🧪
 We strongly suggest checking out the **Test Folder**, which contains various classes of birds, providing images and videos to enhance your testing and UI experience.
 
 ## Dataset 📊
 The origincal dataset can be accessed using this link:
 https://www.vision.caltech.edu/datasets/cub_200_2011/
-
-## Demonstration Video
-https://youtu.be/Q_j91EEjMLw
 
 ## Authors 🧑🏻‍💻 
 
